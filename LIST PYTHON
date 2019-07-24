@@ -1,0 +1,12 @@
+List  = [1,3,5,7,9,8,6,4,2]
+
+print("Mengecek List Awal")
+print(List)
+
+print("Menambahkan Angka Baru pada List")
+List.insert(0,7)
+print(List)
+
+print("Mengurutkan List")
+List.sort()
+print(List)
